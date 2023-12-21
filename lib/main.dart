@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:minor_project_team_aav/navigations/tabbar.dart';
+import 'package:project_m1/navigations/tabbar.dart';
 
 void main() {
   runApp(const MyApp());
 }
 
 class MyApp extends StatefulWidget {
-  const MyApp({super.key});
+  const MyApp ({super.key});
 
   @override
   State<MyApp> createState() => _MyAppState();

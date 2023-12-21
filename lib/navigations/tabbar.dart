@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:minor_project_team_aav/views/home.dart';
-import 'package:minor_project_team_aav/views/library.dart';
-import 'package:minor_project_team_aav/views/profile.dart';
-import 'package:minor_project_team_aav/views/search.dart';
+import 'package:project_m1/views/home.dart';
 
 class Tabbar extends StatefulWidget {
   const Tabbar({super.key});
@@ -34,9 +31,9 @@ class _TabbarState extends State<Tabbar> {
       ]),
       body: Stack(children:[
         renderView(0,const HomeView(),),
-        renderView(1,const SearchView(),),
-        renderView(2,const LibraryView(),),
-        renderView(3,const ProfileView(),),  
+        renderView(1,const HomeView(),),
+        renderView(2,const HomeView(),),
+        renderView(3,const HomeView(),),  
       ],),
     );
   }
