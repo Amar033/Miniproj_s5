@@ -13,7 +13,7 @@ A new Flutter project.
 
 
 It works<br>
-<img src="https://media1.tenor.com/m/33GMAhIK_1gAAAAd/vagabond-musashi.gif"/><br>
+<img src="https://media1.tenor.com/m/33GMAhIK_1gAAAAd/vagabond-musashi.gif" height =250/><br>
 (for now)
 
 ### Refernces I have used
