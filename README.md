@@ -24,7 +24,7 @@ A new Flutter project.
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>It works <br>
+It works <br>
 <img src="https://media1.tenor.com/m/33GMAhIK_1gAAAAd/vagabond-musashi.gif" height =250 /><br>
 (for now)
 
