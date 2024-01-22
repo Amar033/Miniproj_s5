@@ -13,7 +13,7 @@ A new Flutter project.
 <img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/88c054a0-0c56-422d-99be-4791f0fef6a5" width =100 align="left"/>
 <img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/5193954a-6e0f-48d3-ac4a-1b9bc07ea03e" width =100 align="left"/>
 <img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/77cc673d-aced-4c6c-af89-f4451c43bf97" width =100 align="left"/>
-<img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/efa94a7b-9462-4ed9-b75f-4b60cb71eee3" width =100 align="left"/><br>
+<img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/efa94a7b-9462-4ed9-b75f-4b60cb71eee3" width =100 align="left"/>
 <br>
 
 
@@ -24,7 +24,7 @@ A new Flutter project.
 
 
 
-It works<br>
+<br>It works<br>
 <img src="https://media1.tenor.com/m/33GMAhIK_1gAAAAd/vagabond-musashi.gif" height =250/><br>
 (for now)
 
