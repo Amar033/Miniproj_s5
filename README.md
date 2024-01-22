@@ -10,7 +10,7 @@ A new Flutter project.
 - Seemed fun.
 
 
-<img src="https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif" width="50%" height="50%"/>
+<img src="https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif" width="200" height="100"/>
 It works<br>
 ![ok](https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif)<br>
 (for now)
