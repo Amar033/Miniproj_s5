@@ -5,9 +5,9 @@ A new Flutter project.
 <br>All other abilities of a music player should be included in the app.
 
 ### Reason to create this
-+ Spotify is unusable without premium 🎼
-+ We had a mini project due.
-+ Seemed fun.
+- Spotify is unusable without premium 🎼
+- We had a mini project due.
+- Seemed fun.
 
 
 <img src="https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif" width="50%" height="50%"/>
