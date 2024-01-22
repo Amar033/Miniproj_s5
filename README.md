@@ -12,7 +12,7 @@ A new Flutter project.
 
 
 It works<br>
-<img src="https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif" width="250" height="100"/><br>
+<img src="https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif" width="250" height="120"/><br>
 (for now)
 
 ### Refernces I have used
