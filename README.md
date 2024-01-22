@@ -1,6 +1,8 @@
 # minor_project_team_aav
 
 A new Flutter project.
+The task at hand is to create a music player that recognizes your emotion and then suggests a song for you.
+All other abilities of a music player should be included in the app.
 
 ## Getting Started
 
