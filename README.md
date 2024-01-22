@@ -10,8 +10,8 @@ A new Flutter project.
 - Seemed fun.
 
 ### Project Images
-<img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/88c054a0-0c56-422d-99be-4791f0fef6a5" width =250 align="left"/>
-<img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/5193954a-6e0f-48d3-ac4a-1b9bc07ea03e" width =250 align="center"/>
+<img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/88c054a0-0c56-422d-99be-4791f0fef6a5" width =250 align="left"/><br>
+<img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/5193954a-6e0f-48d3-ac4a-1b9bc07ea03e" width =250 align="center"/><br>
 <img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/77cc673d-aced-4c6c-af89-f4451c43bf97" width =250 align="right"/><br>
 <img src="https://github.com/Amar033/Miniproj_s5/assets/90225959/efa94a7b-9462-4ed9-b75f-4b60cb71eee3" width =250 align="center"/><br>
 
