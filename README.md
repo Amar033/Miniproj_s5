@@ -4,15 +4,18 @@ A new Flutter project.
 <br>The task at hand is to create a music player that recognizes your emotion and then suggests a song for you.
 <br>All other abilities of a music player should be included in the app.
 
-## Getting Started
+### Reason to create this
++Spotify is unusable without premium 🎼
++We had a mini project due.
++Seemed fun.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+It works
+![ok](https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif)
+(for now)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Refernces I have used
+To create the front end of the app I have used the following videos as reference
++[videolink1](https://www.youtube.com/watch?v=Bd0RkYBQxGo&t=2925s)
++[videolink2](https://www.youtube.com/watch?v=gz7_8t6Ej_M&t=2155s)
