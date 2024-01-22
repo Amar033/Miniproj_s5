@@ -9,10 +9,11 @@ A new Flutter project.
 - We had a mini project due.
 - Seemed fun.
 
+### Project Images
 
 
 It works<br>
-<img src="https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif" width="250" height="160"/><br>
+<img src="[https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif](https://media1.tenor.com/m/33GMAhIK_1gAAAAd/vagabond-musashi.gif)" width="250" height="160"/><br>
 (for now)
 
 ### Refernces I have used
@@ -21,3 +22,4 @@ To create the front end of the app I have used the following videos as reference
 - [videolink2](https://www.youtube.com/watch?v=gz7_8t6Ej_M&t=2155s)
 
 <img src="https://media1.tenor.com/m/sEO9OqoJAE4AAAAC/vagabondrain-vagabond.gif" width="2500" /><br>
+Thank you for reading
