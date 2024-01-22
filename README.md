@@ -17,5 +17,5 @@ It works<br>
 
 ### Refernces I have used
 To create the front end of the app I have used the following videos as reference
-+[videolink1](https://www.youtube.com/watch?v=Bd0RkYBQxGo&t=2925s)
-+[videolink2](https://www.youtube.com/watch?v=gz7_8t6Ej_M&t=2155s)
+-[videolink1](https://www.youtube.com/watch?v=Bd0RkYBQxGo&t=2925s)
+-[videolink2](https://www.youtube.com/watch?v=gz7_8t6Ej_M&t=2155s)
