@@ -11,8 +11,8 @@ A new Flutter project.
 
 
 
-It works
-![ok](https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif)
+It works<br>
+![ok](https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif)<br>
 (for now)
 
 ### Refernces I have used
