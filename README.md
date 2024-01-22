@@ -12,7 +12,7 @@ A new Flutter project.
 
 
 It works<br>
-![ok](https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif)<br>
+![ok](https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif =250X250)<br>
 (for now)
 
 ### Refernces I have used
