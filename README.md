@@ -20,4 +20,4 @@ To create the front end of the app I have used the following videos as reference
 - [videolink1](https://www.youtube.com/watch?v=Bd0RkYBQxGo&t=2925s)
 - [videolink2](https://www.youtube.com/watch?v=gz7_8t6Ej_M&t=2155s)
 
-<img src="https://media1.tenor.com/m/sEO9OqoJAE4AAAAC/vagabondrain-vagabond.gif" width="250" height="160"/><br>
+<img src="https://media1.tenor.com/m/sEO9OqoJAE4AAAAC/vagabondrain-vagabond.gif" /><br>
